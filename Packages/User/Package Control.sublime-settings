@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"Clipboard History",
+		"CodeFormatter",
+		"ConvertToUTF8",
+		"CTags",
+		"Emmet",
+		"Function Name Display",
+		"GBK Encoding Support",
+		"GoSublime",
+		"Goto Documentation",
+		"Hex to HSL Color Converter",
+		"jQuery",
+		"JsFormat",
+		"JSHint",
+		"JSLint",
+		"JsMinifier",
+		"MarkdownBuild",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PhpBeautifier",
+		"Placeholders",
+		"Prefixr",
+		"Python PEP8 Autoformat",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"SyntaxChecker",
+		"Theme - Soda"
+	]
+}

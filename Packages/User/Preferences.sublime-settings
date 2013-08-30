@@ -1,0 +1,17 @@
+{
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Color Scheme - Default/Mac Classic.tmTheme",
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"JSLint"
+	],
+	"open_files_in_new_window": false,
+	"remember_open_files": true,
+	"rulers":
+	[
+		80
+	],
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

@@ -1,0 +1,15 @@
+{
+	"9o.hist./Users/hanxiaolong/Documents/workspace/code/workspace/code/go/GoCourseDay/0/005":
+	[
+		"go run main.go nimei"
+	],
+	"9o.hist./Users/hanxiaolong/Documents/workspace/code/workspace/code/go/GoCourseDay/0/006":
+	[
+		"go build transcendental.go",
+		"go build main.go",
+		"6g *.go"
+	],
+	"ann": "a13.07.29-1",
+	"install_version": "r13.07.29-1",
+	"version": "r13.07.29-1"
+}

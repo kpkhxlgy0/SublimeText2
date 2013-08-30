@@ -1,0 +1,13 @@
+{
+	"extensions":
+	[
+		"xml",
+		"xsd",
+		"xslt",
+		"svg",
+		"ui",
+		"qrc",
+		"qhcp",
+		"qhp"
+	]
+}

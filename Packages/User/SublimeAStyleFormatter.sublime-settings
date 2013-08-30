@@ -1,0 +1,6 @@
+{
+    "options_default": {
+        // Don't break one-line blocks.
+        "keep-one-line-blocks": true
+    }
+}

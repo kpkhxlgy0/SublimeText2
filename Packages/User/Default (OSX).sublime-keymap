@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+ctrl+f1"], "command": "goto_documentation" },
+    { "keys": ["super+ctrl+f2"], "command": "alignment" }
+]
