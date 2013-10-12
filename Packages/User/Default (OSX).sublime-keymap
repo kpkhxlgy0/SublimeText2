@@ -1,4 +1,6 @@
 [
     { "keys": ["super+ctrl+f1"], "command": "goto_documentation" },
-    { "keys": ["super+ctrl+f2"], "command": "alignment" }
+    { "keys": ["super+ctrl+shift+alt+a"], "command": "alignment" },
+    { "keys": ["super+ctrl+shift+alt+f"], "command": "print", "args": "1" },
+    { "keys": ["super+ctrl+shift+alt+t"], "command": "open_mac_terminal"}
 ]

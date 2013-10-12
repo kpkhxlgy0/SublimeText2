@@ -5,6 +5,13 @@ GoSublime Changes
 
 Note: you may need to restart Sublime Text after GoSublime updates
 
+## 13.10.05-1
+
+* sync gocode
+
+## 13.09.07-1
+	* remove error syntax highlighting of lone percentage signs in strings
+
 ## 13.07.29-1
 	* the .p method of finding packages was reverted. as a result `use_named_imports` has no effect
 

@@ -439,3 +439,16 @@ created by main.(*Broker).Loop
 ** 2013-06-05 07:10:30.367783 **:
 GsComplete: broker: gocode_complete#mg9.autoken.069aa1b1-3386-4394-a73a-01c516039820 PANIC
 --------------------------------
+
+** 2013-08-31 09:32:06.519717 **:
+MarGo: MarGo build failed
+cmd: `['', 'build', '-v', '-x', '-o', 'gosublime.margo_r13.08.29-2_go?.exe', 'gosubli.me/margo']`
+stdout: ``
+stderr: ``
+exception: `Cannot find command `go``
+--------------------------------
+
+** 2013-08-31 09:32:06.524237 **:
+MarGo: Missing required environment variables: GOROOT
+See the `Quirks` section of USAGE.md for info
+--------------------------------

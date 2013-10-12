@@ -1,6 +1,10 @@
 {
 	"folder_history":
 	[
+		"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources",
+		"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/ccb",
+		"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config",
+		"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js",
 		"/Users/hanxiaolong/Sites",
 		"/Users/hanxiaolong/Sites/msgpack",
 		"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/cocos2dxh",
@@ -25,16 +29,108 @@
 		"/Users/hanxiaolong/Downloads/scons",
 		"/Users/hanxiaolong/Documents/workspace/code/workspace/code/go/GoCourseDay"
 	],
-	"last_window_id": 66,
+	"last_window_id": 70,
 	"settings":
 	{
-		"new_window_height": 796.0,
+		"new_window_height": 1036.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"for",
+						"forceEnemy"
+					],
+					[
+						"_max",
+						"_maxHpUp"
+					],
+					[
+						"data",
+						"dataCard"
+					],
+					[
+						"ex",
+						"explore"
+					],
+					[
+						"g_ex",
+						"g_exploreProgress"
+					],
+					[
+						"sp",
+						"spirit"
+					],
+					[
+						"parse",
+						"parseInt"
+					],
+					[
+						"pars",
+						"parseInt"
+					],
+					[
+						"updae",
+						"updateUI"
+					],
+					[
+						"pro",
+						"protocol"
+					],
+					[
+						"_ex",
+						"_exploreScene"
+					],
+					[
+						"change",
+						"changeSceneImage"
+					],
+					[
+						"addC",
+						"addChild"
+					],
+					[
+						"tex",
+						"texture"
+					],
+					[
+						"text",
+						"texture"
+					],
+					[
+						"nex",
+						"nextScene"
+					],
+					[
+						"load",
+						"loads  (function)"
+					],
+					[
+						"Ec",
+						"EchoHandler"
+					],
+					[
+						"sock_s",
+						"SOCK_STREAM  (variable)"
+					],
+					[
+						"dis",
+						"dispatcher  (class)"
+					],
+					[
+						"online",
+						"onlineQueue"
+					],
+					[
+						"onli",
+						"onlineQueue"
+					],
+					[
+						"onl",
+						"onlineQueue"
+					],
 					[
 						"bas",
 						"base64_encode"
@@ -156,10 +252,6 @@
 						"templ	 Ɩ"
 					],
 					[
-						"sp",
-						"Split	[]string ƒ"
-					],
-					[
 						"wr",
 						"WriteHeader	 ƒ"
 					],
@@ -186,10 +278,6 @@
 					[
 						"e",
 						"Exit	 ƒ"
-					],
-					[
-						"pro",
-						"proxyURL	*url.URL ν"
 					],
 					[
 						"d",
@@ -444,16 +532,20 @@
 			"build_system": "",
 			"command_palette":
 			{
-				"height": 327.0,
+				"height": 375.0,
 				"selected_items":
 				[
 					[
-						"for",
-						"Format: Php"
-					],
-					[
 						"ins",
 						"Package Control: Install Package"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"for",
+						"Format: Php"
 					],
 					[
 						"lis",
@@ -476,10 +568,6 @@
 						"Format Code"
 					],
 					[
-						"packa",
-						"Package Control: Install Package"
-					],
-					[
 						"pa",
 						"Package Control: Install Package"
 					],
@@ -488,7 +576,7 @@
 						"Package Control: Remove Package"
 					]
 				],
-				"width": 602.0
+				"width": 579.0
 			},
 			"console":
 			{
@@ -505,19 +593,88 @@
 			},
 			"file_history":
 			[
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/NodeCard.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/AudioManager.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerDoorClose.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/Helper.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/NetworkGame.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/ProtocalGame.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLoginLoading.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneFight.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLogin.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneScene.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/DataGame.js",
+				"/Users/hxl/Sites/zzz.php",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/Config.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/DataRole.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/NodeCards.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneSettleWin.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneSettleLoss.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneAnimationStart.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/exploreProgress.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLogo.js",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/DataMonster.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/DataCard.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/monster.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/monsterBase.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/card.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/chat.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/exploreScene.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/progressChat.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/roleExp.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/cardExp.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerDoorOpen.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLevel.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneCopy.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneFightSoul.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerMainCenterBtn.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/exploreLevel.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/exploreCopy.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/scene.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneMain.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/level.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLevelaction.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerLevelMap.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/CopyJingan.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/ccb/SceneLevel.ccb",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/ccb/LayerLevelMap1.ccb",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerMainHead.js",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/Soda Light/Widget - Soda Light.stTheme",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/config.json",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/User/GoSublime.sublime-settings",
+				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/tool/clienttest.py",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
+				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/startmaster.py",
+				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/app/__init__.py",
+				"/Users/hanxiaolong/Documents/test/appmain.py",
+				"/private/etc/php.ini",
+				"/Users/hanxiaolong/Sites/msgpack/0002.php",
+				"/Users/hanxiaolong/Downloads/MySQL-python-1.2.4b4/site.cfg",
+				"/Users/hanxiaolong/Documents/test/config.json",
+				"/Users/hanxiaolong/Documents/test/tool/clienttest.py",
+				"/Users/hanxiaolong/Documents/test/startmaster.py",
+				"/Users/hanxiaolong/Documents/test/app/apptest.py",
+				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/appmain.py",
+				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/readme.txt.dump",
+				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/readme.txt",
+				"/Users/hanxiaolong/Documents/test/tool/__init__.py",
+				"/Users/hanxiaolong/.profile",
+				"/Users/hanxiaolong/Documents/workspace/code/workspace/code/python/test/untitled.markdown",
+				"/Users/hanxiaolong/Documents/workspace/code/workspace/code/python/test/untitled.py",
+				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
 				"/Users/hanxiaolong/Desktop/MacOS.cpp",
 				"/Users/hanxiaolong/Downloads/php-5.5.1/Makefile",
 				"/Users/hanxiaolong/Sites/w3school/0002.php",
 				"/Users/hanxiaolong/Sites/phpmyadmin/config.inc.php",
-				"/private/etc/php.ini",
 				"/Users/hanxiaolong/Downloads/mcrypt-2.6.8/src/rfc2440.c",
 				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneMain.js",
 				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLogo.js",
-				"/Users/hanxiaolong/.profile",
 				"/Users/hanxiaolong/Desktop/xx.sh",
 				"/Users/hanxiaolong/Desktop/xx.go",
 				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/tools/tojs/genbindings.sh",
-				"/Users/hanxiaolong/Sites/msgpack/0002.php",
 				"/Users/hanxiaolong/Documents/untitled.sh",
 				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/tools/android-buildsetup.sh",
 				"/Users/hanxiaolong/Documents/workspace/code/workspace/code/applescript/001/001.applescript",
@@ -563,76 +720,7 @@
 				"/Users/hanxiaolong/Documents/goagent/local/proxy.ini",
 				"/usr/local/lib/php/build/run-tests.php",
 				"/Users/hanxiaolong/Sites/w3school/0001.php",
-				"/Users/hanxiaolong/Sites/w3school/0000.php",
-				"/Users/hanxiaolong/Documents/workspace/code/workspace/code/php/untitled.php",
-				"/Users/hanxiaolong/Documents/goagent-goagent-45b8d00/local/proxy.ini",
-				"/private/etc/apache2/users/hanxiaolong.conf",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/.gitignore",
-				"/private/etc/apache2/extra/httpd-vhosts.conf",
-				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
-				"/Volumes/mysql-5.6.13-osx10.7-x86_64/ReadMe.txt",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/helper/socket/README.mdown",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/native/CCAlertViewDelegate.h",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/native/CCNative.h",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/helper/tools/HPlatformHelper.h",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/platform/ios/HPlatformHelper.mm",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/crypto/CCCrypto.h",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/crypto/CCCrypto.cpp",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/platform/ios/CCCryptoIOS.mm",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/quick/crypto/CCCrypto.h",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/quick/crypto/CCCrypto.cpp",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/helper/socket/HPacket.cpp",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/cryptopp/GNUmakefile",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/cocos2d-x/cocos2dxh/Android.mk",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/Android.mk",
-				"/Users/hanxiaolong/Downloads/cryptopp562/GNUmakefile",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/cryptopp/cryptlib.h",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/cocos2dxh.xcodeproj/project.pbxproj",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/projects/MyGame/proj.android/jni/Android.mk",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/cocos2dxh-Prefix.pch",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/projects/MyGame/proj.android/jni/Application.mk",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/src/Makefile",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/msgpack/version.h",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/src/msgpack/version.h",
-				"/Users/hanxiaolong/Downloads/auto/pkg-config-0.28/install-sh",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/src/msgpack/version.h.in",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/msgpack/version.c",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/msgpack/msgpack.h",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/bootstrap",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/msgpack/msgpack.hpp",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/configure",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/README",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/README_crosslang.md",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/README.md",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/tools/cocos2d-console/README.md",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/rpm/cocos2d-x.spec",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/tools/cocos2d-console/console/cocos2d.py",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/README.mdown",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/create-multi-platform-projects.py",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/tools/project_creator/create_project.py",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/004/004.002_004.007/main.cc",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/004/004.002_004.006/main.cc",
-				"/Users/hanxiaolong/Documents/workspace/code/CocosBuilder/scripts/CopyBuiltProduct.sh",
-				"/Users/hanxiaolong/Library/Developer/Xcode/DerivedData/CCEditBox-bqorjoslclugffbxpskkabsxqtco/Build/Intermediates/CCEditBox.build/Debug/CCEditBox.build/Script-E33BC1A51510CA52009AE29A.sh",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/samples/Cpp/TestCpp/proj.android/build_native.sh",
-				"/Users/hanxiaolong/Documents/workspace/code/CocosBuilder/README.md",
-				"/Users/hanxiaolong/Documents/workspace/code/CocosBuilder/scripts/BuildDistribution.sh",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-frame/README.md",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x3.0/cocos2dx/proj.qt5/common.pri",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x3.0/cocos2dx-qt5.pro",
-				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/User/c++11.sublime-build",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/003/003.006_003.045/main.cc",
-				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/User/untitled.sublime-build",
-				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/003/003.005.002_003.032/main.cc",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x3.0/create-multi-platform-projects.py",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x3.0/tools/project_creator/create_project.py",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x3.0/tools/cocos2d-console/README.md",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/003/003.005.002_003.031/main.cc",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/003/003.005.002_003.030/main.cc",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/003/003.002.003_003.010/main.cc",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/002/002.002.004/main.cc",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/003/003.002.003_003.008/main.cc"
+				"/Users/hanxiaolong/Sites/w3school/0000.php"
 			],
 			"find":
 			{
@@ -648,9 +736,50 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"-------",
+					"---",
+					"-------------",
+					"totalDefendAttack",
+					"totalDefendBlood",
+					"typeF",
+					"type",
+					"Lightning",
+					"callbackRotate",
+					"updateUI",
+					"1101",
+					"NetworkGame.getInstance",
+					"cc.MessageBox",
+					"RGBA8888",
+					"_ccbLogo",
+					"callbackCompare",
+					"nextAction",
+					"g_monster",
+					"request",
+					"callbackCompare",
+					"g_progressChat",
+					"setStamina",
+					"setExplore",
+					"Spirit",
+					"LabelTTF.create",
+					"_ccbSpriteVitality",
+					"_ccbLabelVitality",
+					"_vitality",
+					"updateUI",
+					"showPrologue",
+					"start",
+					"SceneLevel",
+					"copyjingan",
+					"copyBg/copyBg1Gray.jpg",
+					"Helper.loadCCB(\"LayerDoorClose\")",
+					"doorUI/doorUI_logo.png",
+					"_ccbProgree",
+					"_ccbUpdateText",
+					"size",
+					"10",
+					"9",
 					"error_reporting",
 					"error_log",
 					"log_errors",
@@ -710,6 +839,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"_ccbSpriteStamina",
+					"_stamina",
+					"_ccbProgress",
 					"cocos2dxh"
 				],
 				"reverse": false,
@@ -777,6 +909,14 @@
 			{
 				"height": 102.0
 			},
+			"output.gotodocumentation":
+			{
+				"height": 102.0
+			},
+			"output.markdown":
+			{
+				"height": 102.0
+			},
 			"replace":
 			{
 				"height": 66.0
@@ -805,7 +945,7 @@
 			"side_bar_width": 187.0,
 			"status_bar_visible": true
 		},
-		"new_window_width": 1604.0
+		"new_window_width": 1916.0
 	},
 	"windows":
 	[
@@ -814,6 +954,70 @@
 			{
 				"selected_items":
 				[
+					[
+						"for",
+						"forceEnemy"
+					],
+					[
+						"_max",
+						"_maxHpUp"
+					],
+					[
+						"data",
+						"dataCard"
+					],
+					[
+						"ex",
+						"explore"
+					],
+					[
+						"g_ex",
+						"g_exploreProgress"
+					],
+					[
+						"sp",
+						"spirit"
+					],
+					[
+						"parse",
+						"parseInt"
+					],
+					[
+						"pars",
+						"parseInt"
+					],
+					[
+						"updae",
+						"updateUI"
+					],
+					[
+						"pro",
+						"protocol"
+					],
+					[
+						"_ex",
+						"_exploreScene"
+					],
+					[
+						"change",
+						"changeSceneImage"
+					],
+					[
+						"addC",
+						"addChild"
+					],
+					[
+						"tex",
+						"texture"
+					],
+					[
+						"text",
+						"texture"
+					],
+					[
+						"nex",
+						"nextScene"
+					],
 					[
 						"load",
 						"loads  (function)"
@@ -963,10 +1167,6 @@
 						"templ	 Ɩ"
 					],
 					[
-						"sp",
-						"Split	[]string ƒ"
-					],
-					[
 						"wr",
 						"WriteHeader	 ƒ"
 					],
@@ -993,10 +1193,6 @@
 					[
 						"e",
 						"Exit	 ƒ"
-					],
-					[
-						"pro",
-						"proxyURL	*url.URL ν"
 					],
 					[
 						"d",
@@ -1251,19 +1447,11 @@
 			"buffers":
 			[
 				{
-					"file": "/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/config.json",
+					"file": "/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneScene.js",
 					"settings":
 					{
-						"buffer_size": 949,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/tool/clienttest.py",
-					"settings":
-					{
-						"buffer_size": 1272,
-						"line_ending": "Windows"
+						"buffer_size": 17573,
+						"line_ending": "Unix"
 					}
 				}
 			],
@@ -1314,7 +1502,7 @@
 						"Package Control: Remove Package"
 					]
 				],
-				"width": 588.0
+				"width": 579.0
 			},
 			"console":
 			{
@@ -1331,6 +1519,66 @@
 			},
 			"file_history":
 			[
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/C++/C++.sublime-build",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/MacTerminal/Default.sublime-keymap",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/User/MacTerminal.sublime-settings",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/MacTerminal/MacTerminal.sublime-settings",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/NodeCard.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/AudioManager.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerDoorClose.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/Helper.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/NetworkGame.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/ProtocalGame.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLoginLoading.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneFight.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLogin.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneScene.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/DataGame.js",
+				"/Users/hxl/Sites/zzz.php",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/Config.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/DataRole.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/NodeCards.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneSettleWin.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneSettleLoss.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneAnimationStart.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/exploreProgress.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLogo.js",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/DataMonster.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/DataCard.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/monster.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/monsterBase.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/card.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/chat.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/exploreScene.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/progressChat.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/roleExp.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/cardExp.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerDoorOpen.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLevel.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneCopy.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneFightSoul.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerMainCenterBtn.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/exploreLevel.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/exploreCopy.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/scene.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneMain.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/config/level.json",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneLevelaction.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerLevelMap.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/CopyJingan.js",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/ccb/SceneLevel.ccb",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/ccb/LayerLevelMap1.ccb",
+				"/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/LayerMainHead.js",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/Theme - Soda/Soda Light/Widget - Soda Light.stTheme",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/GoSublime/CHANGELOG.md",
+				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/config.json",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/User/GoSublime.sublime-settings",
+				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/tool/clienttest.py",
+				"/Users/hxl/Library/Application Support/Sublime Text 2/Packages/GoSublime/USAGE.md",
 				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/startmaster.py",
 				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/app/__init__.py",
 				"/Users/hanxiaolong/Documents/test/appmain.py",
@@ -1342,7 +1590,6 @@
 				"/Users/hanxiaolong/Documents/test/startmaster.py",
 				"/Users/hanxiaolong/Documents/test/app/apptest.py",
 				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/appmain.py",
-				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/config.json",
 				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/readme.txt.dump",
 				"/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/readme.txt",
 				"/Users/hanxiaolong/Documents/test/tool/__init__.py",
@@ -1399,66 +1646,7 @@
 				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/Default (OSX).sublime-keymap",
 				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
 				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/Function Name Display/Function Name Display.sublime-settings",
-				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
-				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
-				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/Alignment/Base File.sublime-settings",
-				"/Users/hanxiaolong/Documents/goagent/local/proxy.ini",
-				"/usr/local/lib/php/build/run-tests.php",
-				"/Users/hanxiaolong/Sites/w3school/0001.php",
-				"/Users/hanxiaolong/Sites/w3school/0000.php",
-				"/Users/hanxiaolong/Documents/workspace/code/workspace/code/php/untitled.php",
-				"/Users/hanxiaolong/Documents/goagent-goagent-45b8d00/local/proxy.ini",
-				"/private/etc/apache2/users/hanxiaolong.conf",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/.gitignore",
-				"/private/etc/apache2/extra/httpd-vhosts.conf",
-				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
-				"/Volumes/mysql-5.6.13-osx10.7-x86_64/ReadMe.txt",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/helper/socket/README.mdown",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/native/CCAlertViewDelegate.h",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/native/CCNative.h",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/helper/tools/HPlatformHelper.h",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/platform/ios/HPlatformHelper.mm",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/crypto/CCCrypto.h",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/crypto/CCCrypto.cpp",
-				"/Users/hanxiaolong/Documents/workspace/git/github/dualface/quick-cocos2d-x/lib/cocos2dx_extra/extra/platform/ios/CCCryptoIOS.mm",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/quick/crypto/CCCrypto.h",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/quick/crypto/CCCrypto.cpp",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/helper/socket/HPacket.cpp",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/cryptopp/GNUmakefile",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/cocos2d-x/cocos2dxh/Android.mk",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/Android.mk",
-				"/Users/hanxiaolong/Downloads/cryptopp562/GNUmakefile",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/cryptopp/cryptlib.h",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/cocos2dxh.xcodeproj/project.pbxproj",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/projects/MyGame/proj.android/jni/Android.mk",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/cocos2dxh-Prefix.pch",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/projects/MyGame/proj.android/jni/Application.mk",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/src/Makefile",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/msgpack/version.h",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/src/msgpack/version.h",
-				"/Users/hanxiaolong/Downloads/auto/pkg-config-0.28/install-sh",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/src/msgpack/version.h.in",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/msgpack/version.c",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/msgpack/msgpack.h",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/bootstrap",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/cocos2dxh/msgpack/msgpack.hpp",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/configure",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/README",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/README_crosslang.md",
-				"/Users/hanxiaolong/Documents/workspace/code/msgpack-c/README.md",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/tools/cocos2d-console/README.md",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/rpm/cocos2d-x.spec",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/tools/cocos2d-console/console/cocos2d.py",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/README.mdown",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/create-multi-platform-projects.py",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/tools/project_creator/create_project.py",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/004/004.002_004.007/main.cc",
-				"/Users/hanxiaolong/Documents/workspace/git/github/kpkhxlgy0/C--Primer5_tests/004/004.002_004.006/main.cc",
-				"/Users/hanxiaolong/Documents/workspace/code/CocosBuilder/scripts/CopyBuiltProduct.sh",
-				"/Users/hanxiaolong/Library/Developer/Xcode/DerivedData/CCEditBox-bqorjoslclugffbxpskkabsxqtco/Build/Intermediates/CCEditBox.build/Debug/CCEditBox.build/Script-E33BC1A51510CA52009AE29A.sh",
-				"/Users/hanxiaolong/Documents/workspace/code/cocos2d-x/samples/Cpp/TestCpp/proj.android/build_native.sh",
-				"/Users/hanxiaolong/Documents/workspace/code/CocosBuilder/README.md",
-				"/Users/hanxiaolong/Documents/workspace/code/CocosBuilder/scripts/BuildDistribution.sh"
+				"/Users/hanxiaolong/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap"
 			],
 			"find":
 			{
@@ -1474,9 +1662,50 @@
 			},
 			"find_state":
 			{
-				"case_sensitive": false,
+				"case_sensitive": true,
 				"find_history":
 				[
+					"-------",
+					"---",
+					"-------------",
+					"totalDefendAttack",
+					"totalDefendBlood",
+					"typeF",
+					"type",
+					"Lightning",
+					"callbackRotate",
+					"updateUI",
+					"1101",
+					"NetworkGame.getInstance",
+					"cc.MessageBox",
+					"RGBA8888",
+					"_ccbLogo",
+					"callbackCompare",
+					"nextAction",
+					"g_monster",
+					"request",
+					"callbackCompare",
+					"g_progressChat",
+					"setStamina",
+					"setExplore",
+					"Spirit",
+					"LabelTTF.create",
+					"_ccbSpriteVitality",
+					"_ccbLabelVitality",
+					"_vitality",
+					"updateUI",
+					"showPrologue",
+					"start",
+					"SceneLevel",
+					"copyjingan",
+					"copyBg/copyBg1Gray.jpg",
+					"Helper.loadCCB(\"LayerDoorClose\")",
+					"doorUI/doorUI_logo.png",
+					"_ccbProgree",
+					"_ccbUpdateText",
+					"size",
+					"10",
+					"9",
 					"error_reporting",
 					"error_log",
 					"log_errors",
@@ -1536,6 +1765,9 @@
 				"regex": false,
 				"replace_history":
 				[
+					"_ccbSpriteStamina",
+					"_stamina",
+					"_ccbProgress",
 					"cocos2dxh"
 				],
 				"reverse": false,
@@ -1547,7 +1779,7 @@
 			"folders":
 			[
 				{
-					"path": "/Users/hanxiaolong/Sites"
+					"path": "/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources"
 				}
 			],
 			"groups":
@@ -1558,18 +1790,18 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/config.json",
+							"file": "/Users/hxl/Documents/workspace/code/cocos2d-x/bianfeng/modu/ccbProject/Resources/js/SceneScene.js",
 							"settings":
 							{
-								"buffer_size": 949,
+								"buffer_size": 17573,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										832,
-										832
+										911,
+										911
 									]
 								],
 								"settings":
@@ -1726,6 +1958,7 @@
 									{
 										"Python Django": "Python"
 									},
+									"codeintel_tooltips": "popup",
 									"csslint_options":
 									{
 										"adjoining-classes": "warning",
@@ -1760,7 +1993,6 @@
 										"vendor-prefix": true,
 										"zero-units": "warning"
 									},
-									"function_name_status_row": 14,
 									"gjslint_ignore":
 									[
 										110.0
@@ -1778,7 +2010,7 @@
 										"trailing": true,
 										"wsh": true
 									},
-									"origin_encoding": "ASCII",
+									"origin_encoding": "UTF-8",
 									"pep8": true,
 									"pep8_ignore":
 									[
@@ -1812,271 +2044,7 @@
 										"Ruby on Rails": "ruby"
 									},
 									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/JavaScript/JSON.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/Users/hanxiaolong/Downloads/DiabloWorld-server-V1.3/tool/clienttest.py",
-							"settings":
-							{
-								"buffer_size": 1272,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"BracketHighlighterBusy": false,
-									"annotations":
-									[
-										"TODO",
-										"README",
-										"FIXME"
-									],
-									"bh_regions":
-									[
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close"
-									],
-									"codeintel": true,
-									"codeintel_config":
-									{
-										"JavaScript":
-										{
-											"codeintel_max_recursive_dir_depth": 2.0,
-											"codeintel_scan_files_in_project": false,
-											"javascriptExtraPaths":
-											[
-											]
-										},
-										"PHP":
-										{
-											"codeintel_max_recursive_dir_depth": 5.0,
-											"codeintel_scan_files_in_project": false,
-											"phpExtraPaths":
-											[
-											]
-										},
-										"Python":
-										{
-											"env":
-											{
-											}
-										}
-									},
-									"codeintel_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_live": true,
-									"codeintel_live_enabled_languages":
-									[
-										"JavaScript",
-										"Mason",
-										"XBL",
-										"XUL",
-										"RHTML",
-										"SCSS",
-										"Python",
-										"HTML",
-										"Ruby",
-										"Python3",
-										"XML",
-										"Sass",
-										"XSLT",
-										"Django",
-										"HTML5",
-										"Perl",
-										"CSS",
-										"Twig",
-										"Less",
-										"Smarty",
-										"Node.js",
-										"Tcl",
-										"TemplateToolkit",
-										"PHP"
-									],
-									"codeintel_max_recursive_dir_depth": 10.0,
-									"codeintel_scan_exclude_dir":
-									{
-										"JavaScript":
-										[
-											"/build/",
-											"/min/"
-										]
-									},
-									"codeintel_scan_files_in_project": true,
-									"codeintel_selected_catalogs":
-									[
-										"PyWin32",
-										"jQuery",
-										"Rails"
-									],
-									"codeintel_snippets": true,
-									"codeintel_syntax_map":
-									{
-										"Python Django": "Python"
-									},
-									"csslint_options":
-									{
-										"adjoining-classes": "warning",
-										"box-model": true,
-										"box-sizing": "warning",
-										"compatible-vendor-prefixes": "warning",
-										"display-property-grouping": true,
-										"duplicate-background-images": "warning",
-										"duplicate-properties": true,
-										"empty-rules": true,
-										"errors": true,
-										"fallback-colors": "warning",
-										"floats": "warning",
-										"font-faces": "warning",
-										"font-sizes": "warning",
-										"gradients": "warning",
-										"ids": "warning",
-										"import": "warning",
-										"important": "warning",
-										"known-properties": true,
-										"outline-none": "warning",
-										"overqualified-elements": "warning",
-										"qualified-headings": "warning",
-										"regex-selectors": "warning",
-										"rules-count": "warning",
-										"shorthand": "warning",
-										"star-property-hack": "warning",
-										"text-indent": "warning",
-										"underscore-property-hack": "warning",
-										"unique-headings": "warning",
-										"universal-selector": "warning",
-										"vendor-prefix": true,
-										"zero-units": "warning"
-									},
-									"function_name_status_row": 0,
-									"gjslint_ignore":
-									[
-										110.0
-									],
-									"gjslint_options":
-									[
-									],
-									"javascript_linter": "jshint",
-									"jshint_options":
-									{
-										"browser": true,
-										"evil": true,
-										"regexdash": true,
-										"sub": true,
-										"trailing": true,
-										"wsh": true
-									},
-									"origin_encoding": "ASCII",
-									"pep8": true,
-									"pep8_ignore":
-									[
-										"E501"
-									],
-									"perl_linter": "perlcritic",
-									"pyflakes_ignore":
-									[
-									],
-									"pyflakes_ignore_import_*": true,
-									"sublime_auto_complete": true,
-									"sublimelinter": true,
-									"sublimelinter_delay": 2.0,
-									"sublimelinter_disable":
-									[
-									],
-									"sublimelinter_executable_map":
-									{
-									},
-									"sublimelinter_fill_outlines": false,
-									"sublimelinter_gutter_marks": true,
-									"sublimelinter_gutter_marks_theme": "simple",
-									"sublimelinter_mark_style": "none",
-									"sublimelinter_notes": false,
-									"sublimelinter_objj_check_ascii": false,
-									"sublimelinter_popup_errors_on_save": false,
-									"sublimelinter_syntax_map":
-									{
-										"C++": "c",
-										"Python Django": "python",
-										"Ruby on Rails": "ruby"
-									},
-									"sublimelinter_wrap_find": true,
-									"syntax": "Packages/Python/Python.tmLanguage",
+									"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
@@ -2156,7 +2124,7 @@
 			{
 				"height": 102.0
 			},
-			"position": "1054 208 1604 818 0 0 2560 1418 ",
+			"position": "4 0 1916 1058 0 0 1920 1058 ",
 			"replace":
 			{
 				"height": 66.0
@@ -2184,7 +2152,7 @@
 			"side_bar_visible": true,
 			"side_bar_width": 187.0,
 			"status_bar_visible": true,
-			"window_id": 66,
+			"window_id": 69,
 			"workspace_name": ""
 		}
 	],
