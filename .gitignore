@@ -3,3 +3,5 @@ Backup/
 *.pyc
 *.cache
 *.cache/*
+
+Settings/Session.sublime_session
