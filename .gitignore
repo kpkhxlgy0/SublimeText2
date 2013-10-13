@@ -1,1 +1,5 @@
 Backup/
+
+*.pyc
+*.cache
+*.cache/*
