@@ -71,6 +71,8 @@ class GotoDocumentationCommand(sublime_plugin.TextCommand):
                 scope = self.view.scope_name(word.begin()).strip()
                 extracted_scope = scope.rpartition('.')[2]
                 keyword = self.view.substr(word)
+                if "source.pde" in scope:
+                    extracted_scope = "processing"
                 getattr(self, '%s_doc' % extracted_scope, self.unsupported)(keyword, scope)
 
     def unsupported(self, keyword, scope):
@@ -79,6 +81,13 @@ class GotoDocumentationCommand(sublime_plugin.TextCommand):
     def php_doc(self, keyword, scope):
         open_url("http://php.net/%s" % keyword)
 
+
+    def ahk_doc(self, keyword, scope):
+        open_url("http://www.autohotkey.com/docs/commands/%s.htm" % keyword)
+
+    def processing_doc(self, keyword, scope):
+        open_url("http://www.processing.org/reference/%s_" % keyword + ".html")
+
     def rails_doc(self, keyword, scope):
         open_url("http://api.rubyonrails.org/?q=%s" % keyword)
 
@@ -86,7 +95,7 @@ class GotoDocumentationCommand(sublime_plugin.TextCommand):
         open_url("http://api.rubyonrails.org/?q=%s" % keyword)
 
     def ruby_doc(self, keyword, scope):
-        open_url("http://api.rubyonrails.org/?q=%s" % keyword)
+        open_url("http://ruby-doc.com/search.html?q=%s" % keyword)
 
     def js_doc(self, keyword, scope):
         open_url("https://developer.mozilla.org/en-US/search?q=%s" % keyword)
@@ -117,6 +126,12 @@ class GotoDocumentationCommand(sublime_plugin.TextCommand):
 
     def perl_doc(self, keyword, scope):
         open_url("http://perldoc.perl.org/search.html?q=%s" % keyword)
+
+    def cs_doc(self, keyword, scope):
+        open_url("http://social.msdn.microsoft.com/Search/?query=%s" % keyword)
+        
+    def lua_doc(self, keyword, scope):
+        open_url('http://pgl.yoyo.org/luai/i/%s' % keyword)
 
     def run_command(self, command, callback=None, **kwargs):
         if not callback:

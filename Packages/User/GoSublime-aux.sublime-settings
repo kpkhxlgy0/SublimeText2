@@ -9,7 +9,7 @@
 		"go build main.go",
 		"6g *.go"
 	],
-	"ann": "a13.10.05-1",
-	"install_version": "r13.10.05-1",
-	"version": "r13.10.05-1"
+	"ann": "a13.12.26-1",
+	"install_version": "r13.12.26-1",
+	"version": "r13.12.26-1"
 }
