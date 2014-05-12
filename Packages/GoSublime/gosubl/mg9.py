@@ -291,11 +291,11 @@ def _complete_opts(fn, src, pos, builtins):
 		'Pos': pos or 0,
 		'Home': sh.vdir(),
 		'Autoinst': gs.setting('autoinst'),
+		'InstallSuffix': gs.setting('installsuffix', ''),
 		'Env': {
 			'GOROOT': nv.get('GOROOT', ''),
 			'GOPATH': nv.get('GOPATH', ''),
 		},
-		'InstallSuffix': gs.setting('installsuffix'),
 	}
 
 def fmt(fn, src):
@@ -330,6 +330,7 @@ def import_paths(fn, src, f):
 		'fn': fn or '',
 		'src': src or '',
 		'env': sh.env(),
+		'InstallSuffix': gs.setting('installsuffix', ''),
 	}, cb)
 
 def pkg_name(fn, src):
@@ -421,7 +422,7 @@ def bcall(method, arg):
 	q = gs.queue.Queue()
 	acall(method, arg, lambda r,e: q.put((r, e)))
 	try:
-		res, err = q.get(True, 1)
+		res, err = q.get(True, gs.setting('ipc_timeout', 1))
 		return res, err
 	except:
 		return {}, 'Blocking Call(%s): Timeout' % method

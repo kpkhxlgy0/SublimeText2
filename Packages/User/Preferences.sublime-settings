@@ -5,6 +5,10 @@
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Solarized Color Scheme",
+		"JSHint Gutter",
+		"MacTerminal",
+		"Markdown Preview"
 	],
 	"open_files_in_new_window": false,
 	"remember_open_files": true,

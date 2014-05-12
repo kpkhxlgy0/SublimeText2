@@ -132,6 +132,14 @@ class GotoDocumentationCommand(sublime_plugin.TextCommand):
         
     def lua_doc(self, keyword, scope):
         open_url('http://pgl.yoyo.org/luai/i/%s' % keyword)
+        
+    def pgsql_doc(self, keyword, scope):
+        open_url('http://www.postgresql.org/search/?u=%%2Fdocs%%2Fcurrent%%2F&q=%s' % keyword)
+
+    def erlang_doc(self, keyword, scope):
+        otp_version = self.view.settings().get("otp_version", "R16B03")
+        url         = 'http://erldocs.com/%(otp_version)s/?search=%(keyword)s' % {'otp_version': otp_version,  'keyword': keyword}
+        open_url(url)
 
     def run_command(self, command, callback=None, **kwargs):
         if not callback:
