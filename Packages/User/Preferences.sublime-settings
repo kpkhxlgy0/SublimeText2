@@ -3,8 +3,7 @@
 	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
 	"font_size": 14,
 	"hot_exit": false,
-	"ignored_packages":
-	[
+	"ignored_packages": [
 		"Solarized Color Scheme",
 		"JSHint Gutter",
 		"MacTerminal",
@@ -12,10 +11,10 @@
 	],
 	"open_files_in_new_window": false,
 	"remember_open_files": true,
-	"rulers":
-	[
+	"rulers": [
 		80
 	],
 	"theme": "Sodarized Dark.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"ensure_newline_at_eof_on_save": true
 }
